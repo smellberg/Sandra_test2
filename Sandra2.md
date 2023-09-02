@@ -1,7 +1,10 @@
-# Sandra Panda
-Ålder: För mycket
+
+# Sandra Mellberg
+
+Ålder: 36
 
 # Intressen
 - Crossfit
   - Cykling
   - Gym
+
