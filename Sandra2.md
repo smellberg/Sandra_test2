@@ -1,5 +1,7 @@
-# Sandra
-Ålder: 36
+# Sandra Panda
+Ålder: För mycket
 
 # Intressen
-Träning
+- Crossfit
+  - Cykling
+  - Gym
