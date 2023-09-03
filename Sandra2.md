@@ -8,3 +8,6 @@
   - Cykling
   - Gym
 
+# Bor
+- Sölvesborg
+  - Ryedal
